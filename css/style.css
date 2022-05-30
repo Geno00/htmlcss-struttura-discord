@@ -5,5 +5,150 @@
 }
 
 .header-top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: aqua;
+    width: 100%;
+    height: 60px;
+}
+
+.sezione1{
+    background-color: orange;
+    width: 20%;
+    height: 30px;
+    border: dotted 3px black;
+    
+}
+
+.sezione2{
+    background-color: orange;
+    width: 20%;
+    height: 30px;
+    border: dotted 3px black;
+}
+
+.header-bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 400px;
+    background-color: blue;
+
+}
+
+.contenuto-header{
+    background-color: pink;
+    width: 50%;
+    height: 250px;
+    border: dotted 3px black;
+
+}
+
+.contenuto1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 500px;
+
+}
+
+.main1{
+    background-color: lightskyblue;
+    width: 40%;
+    height: 300px;
+    border: dotted 3px black;
+}
+
+.main2{
+    background-color: lightpink;
+    width: 30%;
+    height: 300px;
+    border: dotted 3px black;
+}
+
+.contenuto2{
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 500px;
+
+}
+
+
+
+.main3{
+    background-color: lightpink;
+    width: 30%;
+    height: 300px;
+    border: dotted 3px black;
+}
+
+.main4{
+    background-color: lightskyblue;
+    width: 40%;
+    height: 300px;
+    border: dotted 3px black;
+}
+
+.contenuto3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    width: 100%;
+    min-height: 900px;
+
+}
+
+.big-main{
+    background-color: green;
+    width: 70%;
+    height: 700px;
+    border: dotted 3px black;
+}
+
+.footer-top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 400px;
+    background-color: rgb(35, 31, 31)
+
+
+}
+
+.big-section{
+    background-color: salmon;
+    width: 30%;
+    height: 350px;
+    border: dotted 3px black;
+}
+
+.baby-section{
+    background-color: aquamarine;
+    width: 10%;
+    height: 350px;
+    border: dotted 3px lightgray;
+}
+
+.footer-bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(35, 31, 31);
+    width: 100%;
+    height: 100px;
+
+}
+
+.final-footer{
+    background-color: rgb(36, 131, 144);
+    width: 70%;
+    height: 70px;
 }
